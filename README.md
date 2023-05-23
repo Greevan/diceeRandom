@@ -1,10 +1,10 @@
 # dicee
 
-A new Flutter project.
+A new Flutter project to roll a die randomly.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+There are two versions of the project the new version changes both the die simultaneously when pressed any one. The older version changes the individual die when pressed any one of it.
 
 A few resources to get you started if this is your first Flutter project:
 
