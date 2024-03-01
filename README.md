@@ -3,14 +3,14 @@
 A new Flutter project to roll a die randomly.
 
 ## Getting Started
+Setting Up the Project :        
+Step 1 : Clone the project or Download the project as Zip.      
+Step 2 : Open your VS code or IDE with flutter extension installed and SDK setted previously.       
+Step 3 : Open this project.     
+Step 4 : Open your terminal and type 'flutter pub get', this gets the dependencies.     
+Step 5 : Run the project with the command, 'flutter run'
 
-There are two versions of the project the new version changes both the die simultaneously when pressed any one. The older version changes the individual die when pressed any one of it.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots:
+![img.png](img.png)
